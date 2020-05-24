@@ -31,3 +31,4 @@ Then, you can move to Prediction period. If you had trained your classifier, you
 
 ## :pencil: Predicting
 You should initialize the prediction model with the trained data (weights, default options etc.) titled with "CL.h5". Then, just connect the MYO armband, and do the predicting.
+![](https://github.com/Holaplace/GO-MYO/blob/master/testing_png.png)
