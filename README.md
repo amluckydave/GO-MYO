@@ -41,4 +41,4 @@ You should initialize the prediction model with the trained data (weights, defau
 
 % 图标来自: @ChunWai振玮 | iconfont.com
 
-![](https://github.com/Holaplace/GO-MYO/blob/master/ba0.gif)
+<img src="https://github.com/Holaplace/GO-MYO/blob/master/ba0.gif" height="320">
