@@ -30,5 +30,5 @@ Then, you can move to Prediction period. If you had trained your classifier, you
 ![](https://github.com/Holaplace/GO-MYO/blob/master/training_png.png)
 
 ## :pencil: Predicting
-You should initialize the prediction model with the trained data (weights, default options etc.) titled with "CL.h5". Then, just connect the MYO armband, and do the predicting.
+You should initialize the prediction model with the trained data (weights, default options etc.) titled with "CL.h5". Then, just connect the MYO armband, and do the predicting. To evaluate the real-time performance, you can check the LCD module (milli seconds) which stands for the duration between gesture begaining and result generating.
 ![](https://github.com/Holaplace/GO-MYO/blob/master/testing_png.png)
