@@ -39,6 +39,6 @@ You should initialize the prediction model with the trained data (weights, defau
 
 % Python bindings for the Myo SDK: @NiklasRosenstein | myo-python
 
-% 图标来自: @ChunWai振玮 | iconfont.com
+% DO NOT provide vital classification algorithm coding.
 
 <img src="https://github.com/Holaplace/GO-MYO/blob/master/ba0.gif" height="320">
