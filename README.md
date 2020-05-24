@@ -41,4 +41,6 @@ You should initialize the prediction model with the trained data (weights, defau
 
 % DO NOT provide vital classification algorithm coding.
 
+% You can check the media files about the real-time experiment (rawVideo.mp4 etc). 
+
 <img src="https://github.com/Holaplace/GO-MYO/blob/master/ba0.gif" height="320">
