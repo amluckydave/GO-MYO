@@ -23,7 +23,7 @@ This project aims to realize real-time hand gestures prediction, which means the
 ## :pushpin: Training
 The first step for predicting is to train the individual classifier, you can follow the GUI notes to save your gesture raw EMG data in the default folder. 
 
-Once all the preset 12 gestures are recorded and saved properly, you can press "Train" buttom to train the recognition model. And the trained classifier will be saved in the same folders.
+Once all the preset 12 gestures are recorded and saved properly, you can press "Train" button to train the recognition model. And the trained classifier will be saved in the same folders.
 
 Then, you can move to Prediction period. If you had trained your classifier, you can just skip training and initialize the prediction.
 
