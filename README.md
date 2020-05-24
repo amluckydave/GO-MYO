@@ -9,3 +9,10 @@
       
 </p>
 <br />
+
+## :building_construction: Introduction
+
+GO MYO: Online Training & Predicting Hand Gestures.
+
+Designed By @[Holaplace](https://github.com/Holaplace)
+<br />
