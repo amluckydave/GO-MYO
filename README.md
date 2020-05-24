@@ -33,3 +33,12 @@ Then, you can move to Prediction period. If you had trained your classifier, you
 You should initialize the prediction model with the trained data (weights, default options etc.) titled with "CL.h5". Then, just connect the MYO armband, and do the predicting. To evaluate the real-time performance, you can check the LCD module (milli seconds) which stands for the duration between gesture begining and result generating.
 
 ![](https://github.com/Holaplace/GO-MYO/blob/master/testing_png.png)
+
+
+### Reference
+
+% Python bindings for the Myo SDK: @NiklasRosenstein | myo-python
+
+% 图标来自: @ChunWai振玮 | iconfont.com
+
+![](https://github.com/Holaplace/GO-MYO/blob/master/ba0.gif)
