@@ -16,3 +16,6 @@ GO MYO: Online Training & Predicting Hand Gestures.
 
 Designed By @[Holaplace](https://github.com/Holaplace)
 <br />
+
+## :rocket: Progressing
+This project aims to realize real-time hand gestures prediction, which means the GO MYO-embeded model can output target gestures before the completion of signal collection.
