@@ -21,7 +21,7 @@ Designed By @[Holaplace](https://github.com/Holaplace)
 ## :rocket: Progressing
 This project aims to realize real-time hand gestures prediction, which means the GO MYO-embeded model can output target gestures before the completion of signal collection.
 
-**DO NOT provide vital classification algorithm coding.** (-at present)
+**DO NOT provide vital classification algorithm coding.** (- at present)
 
 
 ## :pushpin: Training
