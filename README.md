@@ -38,9 +38,9 @@ You should initialize the prediction model with the trained data (weights, defau
 
 ### Reference
 
-% Python bindings for the Myo SDK: @NiklasRosenstein | myo-python
+% **DO NOT provide vital classification algorithm coding.
 
-% DO NOT provide vital classification algorithm coding.
+% Python bindings for the Myo SDK: @NiklasRosenstein | myo-python
 
 % You can check the media files about the real-time experiment (rawVideo.mp4, ba0.gif, etc). 
 
