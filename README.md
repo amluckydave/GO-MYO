@@ -31,12 +31,12 @@ Once all the preset 12 gestures are recorded and saved properly, you can press "
 
 Then, you can move to Prediction period. If you had trained your classifier, you can just skip training and initialize the prediction.
 
-<img src="https://github.com/Holaplace/GO-MYO/blob/master/wearing%20style.png" height="320"><img src="https://github.com/Holaplace/GO-MYO/blob/master/training_png.png" height="320">
+<img src="https://github.com/Holaplace/GO-MYO/blob/master/training_png.png" height="320">
 
 ## :pencil: Predicting
 You should initialize the prediction model with the trained data (weights, default options etc.) titled with "CL.h5". Then, just connect the MYO armband, and do the predicting. To evaluate the real-time performance, you can check the LCD module (milli seconds) which stands for the duration between gesture begining and result generating.
 
-<img src="https://github.com/Holaplace/GO-MYO/blob/master/testing_png.png" height="320">
+<img src="https://github.com/Holaplace/GO-MYO/blob/master/wearing%20style.png" height="320"><img src="https://github.com/Holaplace/GO-MYO/blob/master/testing_png.png" height="320">
 
 
 ### Reference
