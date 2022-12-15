@@ -15,7 +15,7 @@
 
 GO MYO: Online Training & Predicting Hand Gestures.
 
-Designed By @[eliotxu](https://github.com/eliotxu)
+Designed By @[amluckydave](https://github.com/amluckydave)
 <br />
 
 ## :rocket: Progressing
